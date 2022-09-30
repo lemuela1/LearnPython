@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T19:59:07.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="HX1wZahYKXbR9k3hvURW" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T20:15:42.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xfxXV0DzDvPTbKZIEBVG" version="20.4.0" type="github">
   <diagram id="kwf1DfNNfV_sgtsVtwUe" name="Page-1">
-    <mxGraphModel dx="797" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="544" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,11 @@
         <mxCell id="IV-PJzwdEKSMfLSHQAN--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--25" target="IV-PJzwdEKSMfLSHQAN--32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--25" target="IV-PJzwdEKSMfLSHQAN--123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--25" value="Cell Membrane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -129,6 +134,9 @@
         <mxCell id="IV-PJzwdEKSMfLSHQAN--48" value="(passive transport)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="530" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--50" target="IV-PJzwdEKSMfLSHQAN--130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--50" value="Rough ER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="320" width="120" height="60" as="geometry" />
         </mxCell>
@@ -153,11 +161,6 @@
         <mxCell id="IV-PJzwdEKSMfLSHQAN--57" value="produce" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1170" y="500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1300" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--58" target="IV-PJzwdEKSMfLSHQAN--25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -166,7 +169,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--58" value="Phospholipids Bilayers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--58" target="IV-PJzwdEKSMfLSHQAN--130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1271" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--58" value="Phospholipids Bilayers&lt;br&gt;(Membrane)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--60" value="become" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -425,6 +441,66 @@
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--123" value="Receptor protein" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--125" value="Only one specific kind of&lt;br&gt;Signal Molecules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="735" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--126" value="Will pair with one kind of Receptor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="765" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--129" target="IV-PJzwdEKSMfLSHQAN--146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--129" value="Golgi Apparatus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1395" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1395" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--130" value="Transport Vesicles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--133" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--50" target="IV-PJzwdEKSMfLSHQAN--129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="360" as="sourcePoint" />
+            <mxPoint x="1410" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="IV-PJzwdEKSMfLSHQAN--139" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400.0026315789473" y="319.95" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--139" value="Transport Vesicles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1472.5" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="IV-PJzwdEKSMfLSHQAN--139" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1630" y="220" />
+              <mxPoint x="1630" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--142" value="Unpackage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1321" y="294" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--143" value="Package" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="297" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--144" value="Process and Sorted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="374" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--146" value="Lysosomes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
