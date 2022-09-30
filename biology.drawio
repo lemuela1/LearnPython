@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T20:32:55.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sBQHCx1NM8TvBj-I4AhS" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T21:11:49.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KFovpvTtZWKgOIbbViob" version="20.4.0" type="github">
   <diagram id="kwf1DfNNfV_sgtsVtwUe" name="Page-1">
-    <mxGraphModel dx="865" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1384" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,22 +504,52 @@
         <mxCell id="IV-PJzwdEKSMfLSHQAN--144" value="Process and Sorted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1344" y="374" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--146" value="&lt;b&gt;Lysosomes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;fontColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--146" value="&lt;b&gt;Lysosomes&lt;br&gt;(Acid)&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="1350" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--148" value="Centrioles" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;fontColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--149" target="IV-PJzwdEKSMfLSHQAN--151">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="110" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--149" target="IV-PJzwdEKSMfLSHQAN--159">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--149" value="DNA Replication" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--151" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--157" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="490" y="80" width="491" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--160" value="" style="group" vertex="1" connectable="0" parent="IV-PJzwdEKSMfLSHQAN--157">
+          <mxGeometry x="80" width="491" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--148" value="Centrioles" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF8000;fontColor=#CC6600;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--160">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--151" value="DNA Division" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--160">
+          <mxGeometry x="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--154" value="Sorted" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--160">
+          <mxGeometry x="120" y="7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--156" value="Cell Division" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;container=1;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--160">
+          <mxGeometry x="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="IV-PJzwdEKSMfLSHQAN--160" source="IV-PJzwdEKSMfLSHQAN--148" target="IV-PJzwdEKSMfLSHQAN--151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IV-PJzwdEKSMfLSHQAN--160" source="IV-PJzwdEKSMfLSHQAN--151" target="IV-PJzwdEKSMfLSHQAN--156">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--163" value="Divided" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--160">
+          <mxGeometry x="119" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--159" value="&lt;span style=&quot;color: rgb(77, 81, 86); font-family: Roboto, arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;synaptonemal complex&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--157">
+          <mxGeometry x="-65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="IV-PJzwdEKSMfLSHQAN--157" source="IV-PJzwdEKSMfLSHQAN--159" target="IV-PJzwdEKSMfLSHQAN--148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--164" value="&lt;span style=&quot;color: rgb(77, 81, 86); font-family: Roboto, arial, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;synapsis&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="345" y="80" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
