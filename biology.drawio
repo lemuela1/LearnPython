@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T21:14:25.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A82s6GJ3mFz0nosXyzur" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-01T00:40:36.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="N6YpcgbN-6BHtSrW8seZ" version="20.4.0" type="github">
   <diagram id="kwf1DfNNfV_sgtsVtwUe" name="Page-1">
-    <mxGraphModel dx="769" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,6 +100,12 @@
             <mxPoint x="400" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--25" target="IV-PJzwdEKSMfLSHQAN--115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--25" target="IV-PJzwdEKSMfLSHQAN--117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--25" value="Cell Membrane" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -117,6 +123,11 @@
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--31" value="f&quot;Has {} on it&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="445" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--32" target="IV-PJzwdEKSMfLSHQAN--182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="670" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--32" value="Recognition protein" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="640" width="120" height="60" as="geometry" />
@@ -265,7 +276,7 @@
           <mxGeometry y="50" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--98" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1410" y="670" width="45" height="95" as="geometry" />
+          <mxGeometry x="1410" y="670" width="60" height="95" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--99" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="IV-PJzwdEKSMfLSHQAN--98" target="IV-PJzwdEKSMfLSHQAN--101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -285,6 +296,9 @@
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--101" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--98">
           <mxGeometry y="50" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--186" value="hydrophobic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--98">
+          <mxGeometry x="-30" y="-10" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--102" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1365" y="670" width="45" height="95" as="geometry" />
@@ -423,8 +437,8 @@
         <mxCell id="IV-PJzwdEKSMfLSHQAN--83" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="IV-PJzwdEKSMfLSHQAN--110">
           <mxGeometry x="180" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--112" value="hydro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="550" width="50" height="30" as="geometry" />
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--112" value="hydrophilic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="550" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--115" target="IV-PJzwdEKSMfLSHQAN--25">
           <mxGeometry relative="1" as="geometry" />
@@ -436,7 +450,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--117" value="Signal Molecules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="725" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--120" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--117" target="IV-PJzwdEKSMfLSHQAN--123">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -444,8 +458,13 @@
             <mxPoint x="360" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--123" target="IV-PJzwdEKSMfLSHQAN--176">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="757" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--123" value="Receptor protein" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="727" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--125" value="Only one specific kind of&lt;br&gt;Signal Molecules" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="735" width="150" height="40" as="geometry" />
@@ -481,6 +500,16 @@
         <mxCell id="IV-PJzwdEKSMfLSHQAN--138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="IV-PJzwdEKSMfLSHQAN--139" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1400.0026315789473" y="319.95" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--139" target="IV-PJzwdEKSMfLSHQAN--25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1532" y="-60" />
+              <mxPoint x="90" y="-60" />
+              <mxPoint x="90" y="390" />
+              <mxPoint x="315" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IV-PJzwdEKSMfLSHQAN--139" value="Transport Vesicles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -561,11 +590,38 @@
             <mxPoint x="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--166" value="cilia and flagella" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--166" value="&lt;font color=&quot;#6600cc&quot;&gt;cilia and flagella&lt;br&gt;(Prokaryotic)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6600CC;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="570" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IV-PJzwdEKSMfLSHQAN--168" value="Motion" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--168" value="Motion" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6600CC;fontColor=#6600CC;" vertex="1" parent="1">
           <mxGeometry x="750" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--169" value="Cytoplasm" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--170" value="some will stay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1566" y="288" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--172" value="some will transport to other part of your body for other use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-60" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--176" value="Information&lt;br&gt;or instruction" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="727" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="IV-PJzwdEKSMfLSHQAN--182" target="IV-PJzwdEKSMfLSHQAN--183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--182" value="Recognize which part or who&#39;s cell it is." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--183" value="Immune System" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="790" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--185" value="hydrophilic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="765" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IV-PJzwdEKSMfLSHQAN--187" value="&lt;font color=&quot;#000000&quot;&gt;Trade and transport&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#6600CC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
